@@ -12,6 +12,7 @@ I will follow this loop for every feature or fix:
    - Command: `git commit -m "verb: description of change"`
 5. **Push**: Upload changes to GitHub.
    - Command: `git push origin main`
+6. **Pull Request**: Ask a teammate to review changes before merging.
 
 ## Inspecting History
 To understand what happened in the past:
