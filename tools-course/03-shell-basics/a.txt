@@ -1,0 +1,2 @@
+Line 1: I am learning Shell Basics.
+Line 2: This is an appended line.
